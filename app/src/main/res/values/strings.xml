@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application Controlos Comuns TPC4 Feito</string>
+    <string name="msg1">Mensagem de Erro</string>
+    <string name="botao_erro">Erro ao validar</string>
+    <string name="botao_ok">Validação Concluida</string>
+    <string name="resultado">Resultado</string>
+</resources>
